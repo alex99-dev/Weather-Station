@@ -6,3 +6,12 @@
 //
 
 import Foundation
+
+
+struct DayWeek {
+    var hTemp: String = String()
+    var hHum: String = String()
+    var lTemp: String = String()
+    var lHum: String = String()
+    
+}
